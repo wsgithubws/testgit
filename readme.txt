@@ -13,10 +13,6 @@ aaaaaaaaaaaaaaa
 #test line
 <<<<<<< HEAD
 test line aaaaaaaaaaaa
-=======
 test line aaaa
->>>>>>> 74d977f6daf7545711617c4035d5ebc93d2491ed
-=======
-
 嘻嘻哈哈嘻嘻哈哈嘻嘻哈哈
->>>>>>> c67745ff845461a058895110d1f89b30e0326712
+
